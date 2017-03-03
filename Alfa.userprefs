@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{667D6A41-81AA-4763-8C98-A15B69FB570B}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.Alfa PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Alfa/Tests.cs">
+    <Files>
+      <File FileName="Alfa/AppInitializer.cs" Line="31" Column="17" />
+      <File FileName="Alfa/Tests.cs" Line="31" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
